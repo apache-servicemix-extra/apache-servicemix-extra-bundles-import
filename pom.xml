@@ -25,6 +25,7 @@
     <modules>
         <module>bundles-pom</module>
         <module>hibernate-3.6.0</module>
+        <module>hibernate-3.6.9.Final</module>
     </modules>
 
 </project>
